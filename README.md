@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 Je travaille actuellement sur des petit projet de bot discord **Osint**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 J'apprends de nouveau domaine comme l'informatique quantique et le pentest réseaux
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Si tu veux me contacter ajoute moi sur discord : **px.zadig**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact : j'ai déja ouvert mon propre virus sans faire exprès xd
  
  </div>
  <hr/>
