@@ -17,6 +17,8 @@
  💬 Si tu veux me contacter ajoute moi sur discord : **px.zadig**
 
  ⚡ Fun fact : j'ai déja ouvert mon propre virus sans faire exprès xd
+
+ PS : si tu veux me soutenir je te donne mon paypal ici : https://paypal.me/NotLivingHere
  
  </div>
  <hr/>
