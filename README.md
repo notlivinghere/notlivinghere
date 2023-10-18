@@ -23,7 +23,7 @@
  </div>
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Je maitrise ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,html,css,lua,mysql" /><br>
